@@ -1,4 +1,1 @@
-- 🔭 I’m currently working on QKD projects
-- 🌱 I’m currently learning Quantum photonics,  Python
-- 👯 I’m looking to collaborate on PIC design
-- 🤔 I’m looking for help with RF design, FPGA implementations
+
